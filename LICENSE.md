@@ -1,4 +1,4 @@
-# 
+# Enhance KeePassXC for macOS with KeePassXC for macOS vip Utility: secure-storage & emergency-access, the #1 utility. Includes secure-storage and emergency-access for a safer macOS
 
 
 
